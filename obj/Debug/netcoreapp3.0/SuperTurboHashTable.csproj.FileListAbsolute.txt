@@ -1,0 +1,12 @@
+C:\Users\Igoras\Desktop\SuperTurboHashTable\bin\Debug\netcoreapp3.0\SuperTurboHashTable.exe
+C:\Users\Igoras\Desktop\SuperTurboHashTable\bin\Debug\netcoreapp3.0\SuperTurboHashTable.deps.json
+C:\Users\Igoras\Desktop\SuperTurboHashTable\bin\Debug\netcoreapp3.0\SuperTurboHashTable.runtimeconfig.json
+C:\Users\Igoras\Desktop\SuperTurboHashTable\bin\Debug\netcoreapp3.0\SuperTurboHashTable.runtimeconfig.dev.json
+C:\Users\Igoras\Desktop\SuperTurboHashTable\bin\Debug\netcoreapp3.0\SuperTurboHashTable.dll
+C:\Users\Igoras\Desktop\SuperTurboHashTable\bin\Debug\netcoreapp3.0\SuperTurboHashTable.pdb
+C:\Users\Igoras\Desktop\SuperTurboHashTable\obj\Debug\netcoreapp3.0\SuperTurboHashTable.csprojAssemblyReference.cache
+C:\Users\Igoras\Desktop\SuperTurboHashTable\obj\Debug\netcoreapp3.0\SuperTurboHashTable.csproj.CoreCompileInputs.cache
+C:\Users\Igoras\Desktop\SuperTurboHashTable\obj\Debug\netcoreapp3.0\SuperTurboHashTable.AssemblyInfoInputs.cache
+C:\Users\Igoras\Desktop\SuperTurboHashTable\obj\Debug\netcoreapp3.0\SuperTurboHashTable.AssemblyInfo.cs
+C:\Users\Igoras\Desktop\SuperTurboHashTable\obj\Debug\netcoreapp3.0\SuperTurboHashTable.dll
+C:\Users\Igoras\Desktop\SuperTurboHashTable\obj\Debug\netcoreapp3.0\SuperTurboHashTable.pdb
